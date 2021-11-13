@@ -7,7 +7,7 @@ Overview of the statistical analysis:
 The purpose of the analysis is well defined. 
 Results:
 
-There are at least seven visualizations for the NYC Citibike analysis 
+There are at least seven visualizations fr the NYC Citibike analysis 
 There is a description of the results for each visualization
 
 Summary:
