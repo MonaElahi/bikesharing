@@ -14,6 +14,9 @@ The results are presentated in the form charts and their description.
 
 * August Peak Hours 
 
+![git-hub](https://github.com/MonaElahi/bikesharing/blob/9995b07e74d520e1a0523b032d2ecfb16c29258d/Peak_Hours.PNG)
+
+
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/35d339ea5462e524f03200e331405fa3e025e29c/Images/Checkout_times_for_users.PNG)
 
 
