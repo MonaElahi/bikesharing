@@ -8,9 +8,15 @@ The purpose of this project is to do the statistical analysis NYC bike sharing p
 Which would be presented to investors for the new bike sharing business in des Moines Iowa.
 
  
-Results:
+Results
+
+The results are presentated in the form charts and their description. 
+
+* August Peak Hours 
 
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/35d339ea5462e524f03200e331405fa3e025e29c/Images/Checkout_times_for_users.PNG)
+
+
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/35d339ea5462e524f03200e331405fa3e025e29c/Images/Checkout_Times_by_Gender.PNG)
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/35d339ea5462e524f03200e331405fa3e025e29c/Images/Trips_by_Weekend_per_Hour.PNG)
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/35d339ea5462e524f03200e331405fa3e025e29c/Images/Trips_by_Gender(Weekday_per_Hour).PNG)
