@@ -33,4 +33,6 @@ There is a description of the results for each visualization
 
 Summary:
 
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/maimoona.elahi/viz/BikesharingProject_16369259674870/ChallengeDashboard")
+
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis
