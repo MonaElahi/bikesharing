@@ -28,7 +28,7 @@ And from 4pm to 7pm it is assumed that people leave from work in the evening oon
 
 * Number of Rides by Gender
 
-Using pie chart its seen that Male riders are 65%, Female riders are 25% and Unknown riders 10% approximately. 
+Using pie chart its seen that Male riders are 65.28%, Female riders are 25.10% and Unknown riders 9.62% . 
 
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/1af4606b3cf98ac26a01bcbf78204d6d6c2d78df/Number_of_Rides_by_Gender.PNG)
 
@@ -40,7 +40,9 @@ Below line chart describes trip duration of users, where it is under 60mins and 
 
 * Checkout Times by Gender
 
-Top trip durations is 5mins where male users are over 105k, female users 35k for unknown 7k.
+Top trip durations for genders are 5mins for male users count 108,087k,
+6mins for Female users count 34,151k
+and highest trip duration is 7mins and plateaued for 25 mins by unknown users count 7,389k.
 
 ![git-hub](https://github.com/MonaElahi/bikesharing/blob/35d339ea5462e524f03200e331405fa3e025e29c/Images/Checkout_Times_by_Gender.PNG)
 
