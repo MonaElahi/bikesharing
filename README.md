@@ -74,7 +74,7 @@ where female subscribers are much less and unknown gender are more in customers.
 
 ## Two Additional Visualizations
 
-There are additional visualizations by user type by birth and suscribers by gender.
+There are additional visualizations by user type and birth, subscribers by gender.
 
 * User Type by Birth Year
 
